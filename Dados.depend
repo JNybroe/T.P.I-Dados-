@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1686847945 source:c:\users\julian\desktop\proyectos\codeblocks\dados\main.cpp
+	"rlutil.h"
+	"dadoFuncones.h"
+	"dado.h"
+	"menus.h"
+
+1686848372 c:\users\julian\desktop\proyectos\codeblocks\dados\dadofuncones.h
+	<time.h>
+	<iostream>
+	<windows.h>
+	"rlutil.h"
+
+1571584339 c:\users\julian\desktop\proyectos\codeblocks\dados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686799074 c:\users\julian\desktop\proyectos\codeblocks\dados\dado.h
+
+1686848781 c:\users\julian\desktop\proyectos\codeblocks\dados\menus.h
+
+1686927006 source:c:\users\julian\desktop\proyectos\codeblocks\julian nybroe\main.cpp
+	"rlutil.h"
+	"dadoFuncones.h"
+	"dado.h"
+	"menus.h"
+
+1571584339 c:\users\julian\desktop\proyectos\codeblocks\julian nybroe\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686927006 c:\users\julian\desktop\proyectos\codeblocks\julian nybroe\dadofuncones.h
+	<time.h>
+	<iostream>
+	<windows.h>
+	"rlutil.h"
+
+1686799074 c:\users\julian\desktop\proyectos\codeblocks\julian nybroe\dado.h
+
+1686848781 c:\users\julian\desktop\proyectos\codeblocks\julian nybroe\menus.h
+

@@ -1,0 +1,1 @@
+Para compilar el programa es necesario agregar "-lwinmm" en las opciones de compilación, apartado "linker settings". Esto debido a que usa una funcionalidad de "windows.h" que ayuda a agregar archivos de audios externos.
